@@ -7,7 +7,7 @@
 
 3. Ищем там файл Preferences
 
-4. Куда-нибудь в "preferences", например после "currentDockState", вставляем содержимое файла из репозитория
+4. Куда-нибудь в "preferences", например после строки "currentDockState", вставляем содержимое файла "customEmulatedDeviceList" из репозитория
 
 ![image](https://user-images.githubusercontent.com/6253807/215988255-894a55d9-f6f6-4122-80e9-f83988728fcc.png)
 
